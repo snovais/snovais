@@ -17,7 +17,8 @@
 
 :outbox_tray: 2022 Goals: find a new job.
 
-
+ <br><br>
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snovais&theme=outrun&show_icons=true)
  
  <br><br>
@@ -25,6 +26,8 @@
  <p>Below is an example of a connectome extracted from a nilearn fMRI image.</p>
  
  <code><img height= "195" src= "https://nilearn.github.io/stable/_images/sphx_glr_plot_probabilistic_atlas_extraction_002.png" style="horizontal-align:middle">></code>
+
+ <br><br>
 
 ## About me
 
