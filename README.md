@@ -38,6 +38,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= )]( https://www.linkedin.com/in/sergio-novais/)
 
+[![E-mail Badge](https://img.shields.io/badge/-gmail-red?style=flat-square&logo=Linkedin&logoColor=white&link= )]( https://www.linkedin.com/in/sergio-novais/)
 - Thanks for visiting.
 
 - Enjoy it!! o/
