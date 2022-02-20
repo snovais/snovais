@@ -32,7 +32,7 @@
 
 :outbox_tray: 2022 Goals: find a new job.
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snovais&theme=dark&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snovais&theme=outrun&show_icons=true)
 
 ## About me
 
