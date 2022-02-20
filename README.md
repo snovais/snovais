@@ -31,6 +31,8 @@
 
 ## About me
 
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= )]( https://www.linkedin.com/in/sergio-novais/)
 
 [![E-mail Badge](https://img.shields.io/badge/-gmail-red?style=flat-square&logo=Linkedin&logoColor=white&link= )]( https://mail.google.com/mail/u/1/#inbox?compose=VpCqJZNHQRWRdnqGMfskCsJQkHfDXNRvxNcBjZVlKbvdzfWPqSVLzBsrfLpkzCPmMShsBnq)
