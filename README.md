@@ -5,3 +5,5 @@
 
 - 🔭 Atualmente trabalho na startup Bright Cities como estagiário em Análise de dados.
 - 🌱 Graduando em Engenharia de Computação e desenvolvo pesquisas com conectomas e deep learning para diagnóstico da dor crônica. Além disso, sou orientador de iniciação científica para diagnóstico precoce do Transtorno do Autismo utilizando deep learning e conectomas extraídos de imagens rs-fMRI.
+
+<code><img height= "20"src= "https://nilearn.github.io/stable/auto_examples/03_connectivity/plot_probabilistic_atlas_extraction.html"></code>
