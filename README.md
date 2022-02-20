@@ -23,7 +23,7 @@
  
  <br><br>
 
- <p>Below is an example of a connectome extracted from a nilearn fMRI image.</p>
+ <p>Below is an example of a connectome extracted from fMRI image with nilearn.</p>
  
  <code><img height= "195" src= "https://nilearn.github.io/stable/_images/sphx_glr_plot_probabilistic_atlas_extraction_002.png" style="horizontal-align:middle">></code>
 
