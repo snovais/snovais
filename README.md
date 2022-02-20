@@ -20,7 +20,7 @@
 
  
 
-## I'm (Sérgio Novais)!
+## I'm Sérgio Novais!
 
  
 
