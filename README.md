@@ -29,11 +29,10 @@
 ## About me
 
 
-[![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/snovais/pre_processing_data_weather)[![Tensorflow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/snovais/weather_forecast)[![Numpy Badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/snovais/weather_forecast)[![Pandas Badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/snovais/analise_snis_datasus/blob/main/src/analysis.ipynb)
-[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/snovais/curso-cplusplus)
+[![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/snovais/pre_processing_data_weather)[![Tensorflow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/snovais/weather_forecast)[![Numpy Badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/snovais/weather_forecast)[![Pandas Badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/snovais/analise_snis_datasus/blob/main/src/analysis.ipynb)[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/snovais/curso-cplusplus)
 
 
-<br><br>
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= )]( https://www.linkedin.com/in/sergio-novais/)[![E-mail Badge](https://img.shields.io/badge/-gmail-red?style=flat-square&logo=Linkedin&logoColor=white&link= )]( https://mail.google.com/mail/u/1/#inbox?compose=VpCqJZNHQRWRdnqGMfskCsJQkHfDXNRvxNcBjZVlKbvdzfWPqSVLzBsrfLpkzCPmMShsBnq)
 
