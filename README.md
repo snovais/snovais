@@ -24,13 +24,13 @@
 
  
 
-:computer: I'm Data Scientist Developer!
+:computer: I have a degree in computer engineering and a researcher in deep learning, connectomes and image processing.
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning connectomes and deep learning applied image processing for diagnosis chronic pain.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2022 Goals: find a new job.
 
  
 
