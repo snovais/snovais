@@ -46,6 +46,9 @@
 
 [![E-mail Badge](https://img.shields.io/badge/-gmail-red?style=flat-square&logo=Linkedin&logoColor=white&link= )]( https://mail.google.com/mail/u/1/#inbox?compose=VpCqJZNHQRWRdnqGMfskCsJQkHfDXNRvxNcBjZVlKbvdzfWPqSVLzBsrfLpkzCPmMShsBnq)
 
+
+<br><br>
+
 - Thanks for visiting.
 
 - Enjoy it!! o/
