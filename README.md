@@ -39,12 +39,15 @@
 
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/snovais/curso-cplusplus)
 
+
+<br><br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= )]( https://www.linkedin.com/in/sergio-novais/)
 
 [![E-mail Badge](https://img.shields.io/badge/-gmail-red?style=flat-square&logo=Linkedin&logoColor=white&link= )]( https://mail.google.com/mail/u/1/#inbox?compose=VpCqJZNHQRWRdnqGMfskCsJQkHfDXNRvxNcBjZVlKbvdzfWPqSVLzBsrfLpkzCPmMShsBnq)
 
 
-<br><br>
+<br>
 
 - Thanks for visiting.
 
