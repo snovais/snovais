@@ -20,6 +20,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snovais&theme=outrun&show_icons=true)
  
+ <br><br>
 
  <p>Below is an example of a connectome extracted from a nilearn fMRI image.</p>
  
