@@ -1,4 +1,4 @@
-!(https://github-readme-stats.vercel.app/api?username=snovais&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snovais&theme=dark&show_icons=true)
 
 
 ### Olá 👋
@@ -8,7 +8,6 @@
 
 - 🔭 Atualmente trabalho na startup Bright Cities como estagiário em Análise de dados.
 - 🌱 Graduando em Engenharia de Computação e desenvolvo pesquisas com conectomas e deep learning para diagnóstico da dor crônica. Além disso, sou orientador de iniciação científica para diagnóstico precoce do Transtorno do Autismo utilizando deep learning e conectomas extraídos de imagens rs-fMRI.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 
