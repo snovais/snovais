@@ -12,7 +12,7 @@
 
 :books: I’m currently learning connectomes and deep learning applied image processing for diagnosis chronic pain.
 
-:outbox_tray: 2024 Goals: find a new job.
+:outbox_tray: 2025 Goals: find a new job.
 
  <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snovais&theme=outrun&show_icons=true)
  
