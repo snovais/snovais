@@ -12,7 +12,7 @@
 
 :books: I’m currently learning connectomes and deep learning applied image processing for diagnosis chronic pain.
 
-:outbox_tray: 2025 Goals: find a new job.
+:outbox_tray: 2026 Goals: To persist in the realm of education, fostering the development of new knowledge and molding individuals.
 <!-- <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snovais&theme=outrun&show_icons=true) 
 <br><p>Below is an example of a connectome extracted from fMRI image with nilearn.</p>
  
